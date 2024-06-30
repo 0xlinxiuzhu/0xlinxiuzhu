@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "林修竹"
-  text: "bella"
+  text: ""
   tagline: 海到无边天作岸，山登绝顶我为峰
   #actions:
   #  - theme: brand
